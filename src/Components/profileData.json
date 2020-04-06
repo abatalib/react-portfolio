@@ -1,0 +1,45 @@
+{
+    "landing":
+        {
+            "firstName": "CLARENCE",
+            "lastName": " TAYLOR",
+            "address": "3542 BERRY STREET · CHEYENNE WELLS, CO 80810 · (317) 585-8468",
+            "email": "NAME@EMAIL.COM",
+            "bio": "I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+            "linkedin": "linkedin.com",
+            "github": "github.com",
+            "twitter": "twitter.com",
+            "facebook": "facebook.com"
+        },
+
+    "sidebar":
+        {
+            "firstname": "CLARENCE",
+            "lastname": " TAYLOR"
+        },
+
+    "experience":
+        {
+            "page": "Experience page"
+        },
+
+    "awards":
+        {
+            "page": "Awards page"
+        },
+
+    "education":
+        {
+            "page": "Education page"
+        },
+
+    "interests":
+    {
+        "page": "Interests page"
+    },
+
+    "skills":
+    {
+        "page": "Skills page"
+    }
+}
