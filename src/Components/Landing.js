@@ -26,10 +26,10 @@ export default class Landing extends Component {
             <a href={this.landing.github}>
               <FontAwesomeIcon icon={faGithub} />
             </a>
-            <a href={this.landing.github}>
+            <a href={this.landing.twitter}>
               <FontAwesomeIcon icon={faTwitter} />
             </a>
-            <a href="#">
+            <a href={this.landing.facebook}>
               <FontAwesomeIcon icon={faFacebook} />
             </a>
           </div>

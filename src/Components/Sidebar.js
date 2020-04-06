@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
 import image from '../Assets/profile.jpg';
-import App from '../App';
-
-import JsonFile from './profileData.json';
 
 
 class Sidebar extends Component {
@@ -17,7 +14,7 @@ class Sidebar extends Component {
   render() {  
     let menu = this.links.map((t) =>
       {
-       return (
+       return ( 
         <li className="nav-item">
           <a className="nav-link js-scroll-trigger" href="#" onClick={() => this.clc(t.link)}>{t.label}</a>
         </li>
